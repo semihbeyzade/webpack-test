@@ -1,6 +1,6 @@
 # webpack-test
 
-- To get started you only need to understand its Core Concepts:
+  To get started you only need to understand its Core Concepts:
 
 - Entry
 - Output
@@ -17,7 +17,7 @@ For a better understanding of the ideas behind module bundlers and how they work
 - Live Coding a Simple Module Bundler
 - Detailed Explanation of a Simple Module Bundler
 
-##Entry
+## Entry
 
 An entry point indicates which module webpack should use to begin building out its internal dependency graph. Webpack will figure out which other modules and libraries that entry point depends on (directly and indirectly).
 
